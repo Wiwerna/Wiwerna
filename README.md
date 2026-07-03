@@ -1,4 +1,4 @@
-<h1 align="center">Haaai, hewwooo :3</h1>
+<h1 align="center">🐾 Haaai, hewwooo :3</h1>
 <h3 align="center">Hai, I'm Wiwerna. I'm just a random fluff from Poland trying to create something useful using my programing skills. Sometimes I don't know what I'm doing but if it works I don't complain :3</h3>
 
 - I'm trying to create my own bot on discord app named **Sparkina** just another bot that have everything in one dashboard. It's made for furry servers but not limited to.
