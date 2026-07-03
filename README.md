@@ -13,6 +13,4 @@
 
 <p align="center">
   <img src="https://lanyard.cnrad.dev/api/681152336856481811?badge=true" alt="Discord Status"/>
-  <img src="https://lanyard.cnrad.dev/api/681152336856481811?activity=true" alt="Playing Status"/>
-  <img src="https://lanyard.cnrad.dev/api/681152336856481811?spotify=true" alt="Spotify Status"/>
 </p>
