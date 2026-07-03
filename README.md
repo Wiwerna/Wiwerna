@@ -14,3 +14,7 @@
 <p align="center">
   <img src="https://lanyard.cnrad.dev/api/681152336856481811?badge=true" alt="Discord Status"/>
 </p>
+
+<p align="center">
+  <img src="https://cdn.futrzakinafali.pl/tak.jpg" alt="kij wie">
+</p>
